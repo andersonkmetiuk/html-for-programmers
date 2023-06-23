@@ -135,13 +135,33 @@ Sections to submit informations. Forms commonly used with 2 atributes: **action*
     h1 {
       color: blue;
     }
-  </style
+  </style>
 </head>
 ```
 
 ### Inline Styles
 ```
 <h1 style="color: blue">Title</h1>
+```
+
+## Including JavaScript
+
+### External Script
+```
+<body>
+  <script type="text/javascript" src="./index.js"> </script>
+</body>
+```
+
+### Embedded JavaScript
+```
+<body>
+  <script>
+    function alertUser(){
+    ...
+    }
+  </script>
+</body>
 ```
 
 ## Assets Used
