@@ -110,4 +110,5 @@ Sections to submit informations. Forms commonly used with 2 atributes: **action*
 - Method: the "http" method the form will be submitted with.
 
 
-
+## Assets Used
+- <a href="https://www.freepik.com/free-vector/find-person-job-opportunity_8063764.htm#query=avatar&position=1&from_view=keyword&track=sph">Image by studiogstock</a> on Freepik
