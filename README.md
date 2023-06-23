@@ -75,7 +75,7 @@ Consists of 3 parts
 </html>
 ```
 
-## Landmark elements
+## Landmark Elements
 ```
   <body>
 
@@ -109,6 +109,14 @@ Sections to submit informations. Forms commonly used with 2 atributes: **action*
 - Action: URL that will process the form submission.
 - Method: the "http" method the form will be submitted with.
 
+## Media Elements
+```
+<img />
+
+<audio> </audio
+
+<video> </video>
+```
 
 ## Assets Used
 - <a href="https://www.freepik.com/free-vector/find-person-job-opportunity_8063764.htm#query=avatar&position=1&from_view=keyword&track=sph">Image by studiogstock</a> on Freepik
