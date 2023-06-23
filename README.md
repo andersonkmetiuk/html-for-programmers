@@ -100,6 +100,7 @@ Consists of 3 parts
 <h6>H6</h6>
 
 ---
+
 ## Paragraph
 ### \<p\> This is a paragraph \</p\>
 
@@ -116,6 +117,31 @@ Sections to submit informations. Forms commonly used with 2 atributes: **action*
 <audio> </audio
 
 <video> </video>
+```
+
+## Including CSS
+
+### External Style Sheet
+```
+<head>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+```
+
+### Embedded CSS
+```
+<head>
+  <style>
+    h1 {
+      color: blue;
+    }
+  </style
+</head>
+```
+
+### Inline Styles
+```
+<h1 style="color: blue">Title</h1>
 ```
 
 ## Assets Used
