@@ -8,9 +8,10 @@ Repo &rarr; https://github.com/linkedinlearning/html-for-programmers-4360013
 
 ## Notes
 ### \<div\> vs \<span\>
-Div and span are generic containers that allow you to logically group content
+They are generic containers that allow you to logically group content
 
 ### \<div\> is for block level grouping
+
 ### \<span\> is for inline level grouping
 
 ## Examples:
@@ -55,6 +56,7 @@ You can use \<span\> if you want to change a color for one element in a line.
 ```
 
 ## Basic HTML
+
 Consists of 3 parts
 - Information about the HTML version
 - A head section: \<head\>
