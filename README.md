@@ -102,3 +102,12 @@ Consists of 3 parts
 ---
 ## Paragraph
 ### \<p\> This is a paragraph \</p\>
+
+## Forms
+### \<form\> \</form\>
+Sections to submit informations. Forms commonly used with 2 atributes: **action** and **method**
+- Action: URL that will process the form submission.
+- Method: the "http" method the form will be submitted with.
+
+
+
