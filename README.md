@@ -6,8 +6,8 @@ Repo &rarr; https://github.com/linkedinlearning/html-for-programmers-4360013
 
 ---
 
-# Notes
-## \<div\> vs \<span\>
+## Notes
+### \<div\> vs \<span\>
 Div and span are generic containers that allow you to logically group content
 
 ### \<div\> is for block level grouping
