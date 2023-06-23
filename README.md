@@ -74,3 +74,15 @@ Consists of 3 parts
 
 </html>
 ```
+
+## Landmark elements
+```
+  <body>
+
+    <nav> Navigation Bar  </nav>
+    <aside> Side Bar </aside>
+    <main> Main part of the page </main>
+    <footer> Bottom part of the page </footer>
+
+  </body>
+```
