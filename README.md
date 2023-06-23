@@ -7,17 +7,17 @@ Repo &rarr; https://github.com/linkedinlearning/html-for-programmers-4360013
 ---
 
 ## Notes
-### \<div\> vs \<span\>
+## \<div\> VS \<span\>
 They are generic containers that allow you to logically group content
 
-### \<div\> is for block level grouping
+```<div>``` is for block level grouping
 
-### \<span\> is for inline level grouping
+```<span>``` is for inline level grouping
 
 ## Examples:
-You can use \<span\> if you want to change a color for one element in a line.
+You can use ```<span>``` if you want to change a color for one element in a line.
 
-### Let's change the Country to the color "blue" like this:
+### Let's change the Country to the color "blue"
 ```
   <img src="../assets/img.png" alt="nice image">
   <h3>  Persons Name  </h3>
@@ -25,7 +25,8 @@ You can use \<span\> if you want to change a color for one element in a line.
   <button>  Add Friend  </button>
 ```
 
-### If you have multiple cards like this you can group each one of them in a \<div\> to be easier to apply styles later
+If you have multiple cards like this you can group each one of them in a ```<div>``` to be easier to apply styles later.
+### Let's create blocks
 ```
 <!-- Person 1 -->
 
@@ -90,7 +91,9 @@ Consists of 3 parts
 ```
 ## Header
 
-### \<h1\> to \<h6\>
+```
+<h1> </h1>  to  <h6> </h6>
+```
 
 ### Examples
 ---
@@ -104,10 +107,13 @@ Consists of 3 parts
 ---
 
 ## Paragraph
-### \<p\> This is a paragraph \</p\>
+``` 
+<p> This is a paragraph </p>
+```
 
 ## Forms
-### \<form\> \</form\>
+```<form> </form>```
+
 Sections to submit informations. Forms commonly used with 2 atributes: **action** and **method**
 - Action: URL that will process the form submission.
 - Method: the "http" method the form will be submitted with.
