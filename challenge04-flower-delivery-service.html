@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Create A Flower Delivery Service</title>
+  </head>
+
+  <body>
+    <h1>Flower Delivery Service</h1>
+   <div>
+        <img src="assets/sunflower.jpeg" alt="sunflower" width="250" />
+    </div>
+    <form action="" method="post">
+      <!--contact-->
+      <div></div>
+      <!--recipient-->
+      <div>
+        <h3>Recipient Details</h3>
+        <label for="recipient-name">Full name</label>
+        <br />
+        <input type="text" id="recipient-name" />
+        <br />
+
+        <label for="telephone">Telephone number</label>
+        <br />
+        <input type="tel" id="telephone" />
+        <br />
+
+        <label for="address">Address</label>
+        <br />
+        <input type="text" id="address"  />
+        <br />
+      </div>
+      <!--sender-->
+      <div>
+    <h3>Sender Details</h3>
+
+      <label for="sender-name">Full name</label>
+      <br />
+      <input type="text" id="sender-name"  />
+      <br />
+      <label for="email">Email address</label>
+      <br />
+      <input type="email" id="email"  />
+
+      <!--order-->
+      <div> 
+        <h3>Order</h3>
+      <label for="bouquet-type">Bouquet Type</label>
+      <br />
+      <select name="bouquet-type" id="bouquet-type">
+        <option value="basic">Basic Bouquet - $24.99</option>
+        <option value="premium">Premium Bouquet - $49.99</option>
+        <option value="premium-plus">Premium Bouquet + Chocolate - $69.99</option>
+      </select>
+      <br />
+      <label for="message-area">Message</label>
+      <br />
+      <textarea name="message" id="message-area"></textarea>
+      <br />
+      <button type="submit">Checkout</button>
+    </div>
+
+    </form>
+  </body>
+</html>
