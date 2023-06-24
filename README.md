@@ -60,8 +60,8 @@ If you have multiple cards like this you can group each one of them in a ```<div
 
 Consists of 3 parts
 - Information about the HTML version
-- A head section: \<head\>
-- A body section: \<body\>
+- A head section: ```<head>```
+- A body section: ```<body>```
   
 ```
 <!DOCTYPE html>
@@ -112,7 +112,9 @@ Consists of 3 parts
 ```
 
 ## Forms
-```<form> </form>```
+```
+<form> </form>
+```
 
 Sections to submit informations. Forms commonly used with 2 atributes: **action** and **method**
 - Action: URL that will process the form submission.
